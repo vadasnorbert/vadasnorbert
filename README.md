@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Norbert
-- 🌱 I’m currently learning about data analysis and blockchain more and more. I am a member of the Chainstack team and participate in their bootcamp.
+- 👋 Hi, I’m Norbert, full-time web3.
+- 🌱 As part of Chainstack, I’m scouting blockchain projects and ecosystems, and explore opportunities for collaboration.
 - 📫 How to reach me: TG @vadasnorbert 
-
