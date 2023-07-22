@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Norbert, full-time web3.
-- 🌱 As part of Chainstack, I’m scouting blockchain projects and ecosystems, and explore opportunities for collaboration.
+- 🌱 As part of Chainstack, I’m analyzing blockchain projects and ecosystems, analyzing trends and also doing industry-wide research.
 - 📫 How to reach me: TG @vadasnorbert 
