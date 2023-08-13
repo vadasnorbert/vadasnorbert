@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Norbert, full-time web3.
 - 🌱 As part of Chainstack, I’m researching blockchain protocols and ecosystems, analyzing trends and also doing industry-wide research.
-- I am participating in the 4th cohort of EPF (July-Nov 2023) - researching prover incentives for zk-rollups.
+- I am participating in the 4th cohort of Ethereum Protocol Fellowship (July-Nov 2023) - researching decentralized sequencer and prover systems, rollup economics and sequencer/prover incentive models for zk-rollups.
 - 📫 How to reach me: TG @vadasnorbert 
