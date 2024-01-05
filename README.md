@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Norbert.
 - I do:
-    - Ecosystem research and development @ Chainstack.
-    - Protocol research @ Ethereum Protocol Fellowship (EPF - 4th cohort - 2023)
+    - Protocol research and design @ Ethereum Protocol Fellowship (EPF - 4th cohort)
         - focusing on decentralized sequencer and prover networks, rollup economics and prover selection and incentive models for zk-rollups.
             - Project summary and updates: https://hackmd.io/@norbertvadas
             - Proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
+    - Previously: ecosystem scouting and development @ Chainstack
 - 📫 How to reach me: TG @vadasnorbert 
