@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Norbert.
 - I do:
-    - Protocol research and design @ Ethereum Protocol Fellowship (EPF - 4th cohort)
-        - focusing on decentralized sequencer and prover networks, rollup economics and prover selection and incentive models for zk-rollups.
-            - Project summary and updates: https://hackmd.io/@norbertvadas
-            - Proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
-    - Previously: ecosystem scouting and development @ Chainstack
+    - Protocol research @ Gevulot 
+    - Previously:
+        - Research @ Ethereum Protocol Fellowship (EPF - 4th cohort)
+            - focusing on decentralized sequencer and prover networks, rollup economics and prover selection and incentive models for zk-rollups.
+            - proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
+        - Ecosystem research and development @ Chainstack
 - 📫 How to reach me: TG @vadasnorbert 
