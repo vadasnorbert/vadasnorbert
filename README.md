@@ -1,10 +1,11 @@
 👋 Hi, I’m Norbert.
 - I do:
-  - Protocol research @ Gevulot (most of my time)
-  - Contributing to ORA Protocol & Zero Computing
-- Previously:
-  - Research grantee @ ORA Protocol
-    - focusing on node coordination and network design 
+  - Protocol research @ Gevulot
+- Earlier involvements:
+  - Contributor @ Zero Computing
+    - through research on prover-economics 
+  - Research grantee and contributor @ ORA Protocol
+    - focusing on node coordination, network design, and crypto-economics
   - Research @ Ethereum Protocol Fellowship (EPF - 4th cohort)
     - focusing on decentralized sequencer and prover networks, rollup economics and prover selection and incentive models for zk-rollups.
     - proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
