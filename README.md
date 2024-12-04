@@ -9,5 +9,7 @@
   - Research @ Ethereum Protocol Fellowship (EPF - 4th cohort)
     - focusing on decentralized sequencer and prover networks, rollup economics and prover selection and incentive models for zk-rollups.
     - proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
-  - Ecosystem research and development @ Chainstack
+  - Ecosystem research @ Chainstack
+- Pre-web3:
+    - 12 years at the UN (FAO and UNICEF)
 - 📫 How to reach me: TG @vadasnorbert 
