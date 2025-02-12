@@ -1,6 +1,6 @@
 👋 Hi, I’m Norbert.
-- I do:
-  - Protocol research @ Gevulot
+- Currently:
+  - Product & research @ ZkCloud built by Gevulot Labs
 - Earlier involvements:
   - Contributor @ Zero Computing
     - through research on prover-economics 
