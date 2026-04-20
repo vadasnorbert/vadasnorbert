@@ -1,7 +1,8 @@
 👋 Hi, I’m Norbert.
 - Currently:
-  - Product & research @ ZkCloud built by Gevulot Labs
+  - Product & research @ Zenith 
 - Earlier involvements:
+  - Product and research at ZkCloud/Gevulot
   - Contributor @ Zero Computing
     - through research on prover-economics 
   - Research grantee and contributor @ ORA Protocol
