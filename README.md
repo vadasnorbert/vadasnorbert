@@ -4,7 +4,7 @@
   - Current contributions:
     - Slash-veto Council member for Aztec Network
 - Earlier involvements:
-  - Product & research at ZkCloud/Gevulot
+  - Product and research @ ZkCloud/Gevulot
   - Research contributor @ Zero Computing
     - focusing on prover-economics 
   - Protocol researcher @ Hyperoracle (zk-oracle network)
