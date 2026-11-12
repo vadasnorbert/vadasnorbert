@@ -6,7 +6,7 @@
 - Earlier involvements:
   - Product & research at ZkCloud/Gevulot
   - Research contributor @ Zero Computing
-    - through research on prover-economics 
+    - focusing on prover-economics 
   - Protocol researcher @ Hyperoracle (zk-oracle network)
     - focusing on node coordination, network design, and crypto-economics
   - Grantee @ Aztec Network under the RFP for prover decentralization
