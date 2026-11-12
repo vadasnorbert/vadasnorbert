@@ -1,13 +1,16 @@
 👋 Hi, I’m Norbert.
 - Currently:
-  - Product & research @ Zenith 
+  - Product & research @ Zenith
+  - Current contributions:
+    - Slash-veto Council member for Aztec Network
 - Earlier involvements:
   - Product & research at ZkCloud/Gevulot
-  - Contributor @ Zero Computing
+  - Research contributor @ Zero Computing
     - through research on prover-economics 
-  - Research grantee and contributor @ ORA Protocol
+  - Protocol researcher @ Hyperoracle (zk-oracle network)
     - focusing on node coordination, network design, and crypto-economics
-  - Research @ Ethereum Protocol Fellowship (EPF - 4th cohort)
+  - Grantee @ Aztec Network under the RFP for prover decentralization
+  - Protocol research @ Ethereum Protocol Fellowship (EPF - 4th cohort)
     - focusing on decentralized sequencer and prover networks, rollup economics and prover selection and incentive models for zk-rollups.
     - proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
   - Ecosystem research @ Chainstack
