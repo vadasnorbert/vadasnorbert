@@ -10,9 +10,9 @@
   - Protocol researcher @ Hyperoracle (zk-oracle network)
     - focusing on node coordination, network design, and crypto-economics
   - Grantee @ Aztec Network under the RFP for prover decentralization
+    - proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
   - Protocol research @ Ethereum Protocol Fellowship (EPF - 4th cohort)
     - focusing on decentralized sequencer and prover networks, rollup economics and prover selection and incentive models for zk-rollups.
-    - proposal to Aztec for prover coordination: https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489
   - Ecosystem research @ Chainstack
 - Pre-web3:
     - 12 years at the UN (FAO and UNICEF)
